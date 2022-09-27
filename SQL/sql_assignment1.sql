@@ -105,3 +105,14 @@ insert into transactions values (1000,'2020-01-06'),
 (-200,'2020-10-10');
 
 select * from transactions;
+
+Select ( sum(x.total) - (12- count(y.valid_count ))*5 ) as result
+From
+(Select sum(amount) as total , 'A' as name from  transactions  ) as x 
+join
+(Select count(amount) as valid_count , 'A' as name
+From transactions
+where amount <0
+group by month(tran_date)
+having (count(amount) >3 or  sum(amount) >-100) ) as y
+on x.name = y.name;
