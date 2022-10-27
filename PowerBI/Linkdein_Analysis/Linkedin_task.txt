@@ -1,0 +1,8 @@
+****TASK******
+
+Once You have the dataset ready, load it in the POWERBI and design your LINKEDIN 
+PROFILE DASHBOARD and drive meaningful insights out of it. 
+Your dashboard should clearly show JOBS APPLIED too and other sections as relevant to your profile.
+Need complete ANALYTICS information and insights.
+Observe the below sample LINKEDIN ANALYTICS for reference and use your creativity to create something extraordinary.
+Feel free to add CALCULATED COLUMNS, MEASURES & DIFFERENT CHARTS.

@@ -1,0 +1,22 @@
+Login Date,IP Address,User Agent,Login Type
+Thu Dec 10 12:55:53 UTC 2020,47.9.92.175,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",Login
+Wed Dec 23 13:41:53 UTC 2020,47.8.165.44,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",Login
+Thu Jan 07 18:44:37 UTC 2021,2409:4063:2399:9101:91d1:6dbc:cfb0:8658,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.528 samsung_SM-M515F:android_10,Login
+Fri Jan 22 18:03:41 UTC 2021,2409:4063:4e10:3df1:a87e:7440:4303:5c,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",Login
+Sun Jan 24 18:13:25 UTC 2021,2409:4063:2280:62b7:d505:b5dd:a4ee:d5d4,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",Login
+Mon Jan 25 19:26:19 UTC 2021,2409:4063:2280:62b7:5c9f:a81b:d507:c0f7,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",Login
+Tue Jan 26 17:44:21 UTC 2021,2409:4063:2280:62b7:1c4b:71d6:3383:22c6,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",Login
+Thu Jan 28 18:21:52 UTC 2021,2409:4063:2280:62b7:f8a2:16e4:455c:b8e0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",Login
+Tue Mar 23 18:33:29 UTC 2021,2405:204:a205:e8c8:ed5c:2e9b:ea99:bf1b,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36",Login
+Tue Jun 22 16:39:17 UTC 2021,2409:4063:6d0d:6ec4:d172:da8e:173a:515d,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.586 samsung_SM-M515F:android_11,Login
+Tue Jun 22 16:39:33 UTC 2021,2409:4063:6d0d:6ec4:d172:da8e:173a:515d,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.586 samsung_SM-M515F:android_11,Login
+Tue Jun 22 16:39:43 UTC 2021,2409:4063:6d0d:6ec4:d172:da8e:173a:515d,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.586 samsung_SM-M515F:android_11,Login
+Tue Jun 22 18:37:56 UTC 2021,2409:4063:6d0d:6ec4:d172:da8e:173a:515d,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.586 samsung_SM-M515F:android_11,Login
+Thu Feb 03 07:07:49 UTC 2022,103.87.57.183,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.660.1 samsung_SM-M515F:android_11,Login
+Sat Apr 30 13:18:54 UTC 2022,103.92.42.212,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36",Login
+Sun May 01 08:36:01 UTC 2022,103.92.42.32,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36",Login
+Fri May 06 16:13:31 UTC 2022,103.92.42.185,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36",Login
+Wed May 11 09:20:38 UTC 2022,103.92.42.85,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36",Login
+Fri May 13 06:24:29 UTC 2022,103.92.42.242,"Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-M515F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36",Login
+Tue May 17 16:46:15 UTC 2022,103.92.42.46,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.697 samsung_SM-M515F:android_11,Login
+Tue May 17 16:46:25 UTC 2022,103.92.42.46,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.697 samsung_SM-M515F:android_11,Login
