@@ -19,5 +19,5 @@ Tools: PowerBI, MS-Excel.
 
 
 
-![Logo](https://github.com/hvardhank7/iNeuron_Assignment/blob/main/PowerBI/Slicer%20Assignment/Task_report.png)
+[Logo](https://github.com/hvardhank7/iNeuron_Assignment/blob/main/PowerBI/Slicer%20Assignment/Task_report.png)
 
