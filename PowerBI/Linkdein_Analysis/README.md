@@ -1,4 +1,4 @@
-#LinkedIn Analysis
+LinkedIn Analysis
 
 Problem Statement:
 Load and Transform data in POWER BI and design LINKEDIN
