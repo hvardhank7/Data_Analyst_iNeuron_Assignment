@@ -1,0 +1,26 @@
+1. What do you mean by BI? Explain.
+
+Ans- Power BI is a business analytics solution that lets you visualize your data and share insights across your organization, or embed them in your app or website. Connect to hundreds of data sources and bring your data to life with live dashboards and reports.It provides interactive visualizations with self-service business intelligence capabilities, where end users can create reports and dashboards by themselves, without having to depend on any information technology staff or database administrator.
+Connect, model, and then explore your data with visual reports that you can collaborate, publish, and share. Power BI integrates with other tools,including Microsoft Excel, so you can get
+up to speed quickly and work seamlessly with your existing solutions.
+
+2. How Power-BI helps in BI, and how does it help Analysts? Explain.
+
+Ans- Microsoft Power BI is used to find insights within an organization's data. Power BI can help connect disparate data sets, transform and clean the data into a data model and create charts or graphs to provide visuals of the data. All of this can be shared with other Power BI users within the organization.
+
+3. Explain Descriptive analytics?
+Ans- Descriptive analytics is the simplest form of data analysis, and involves summarizing a data set's main features and characteristics. It relies on statistical measures of distribution, central tendency, and variability.It is a type of data analytics that looks at past data to give an account of what has happened.
+
+
+4. Explain Predictive analytics?
+Ans- Predictive analytics is a branch of advanced analytics that makes predictions about future outcomes using historical data combined with statistical modeling, data mining techniques and machine learning. Companies employ predictive analytics to find patterns in this data to identify risks and opportunities.
+
+5. Explain perspective analytics?
+Ans- Prescriptive analytics is the process of using data to determine an optimal course of action. By considering all relevant factors, this type of analysis yields recommendations for next steps. Because of this, prescriptive analytics is a valuable tool for data-driven decision-making.
+
+6. Write five real-life questions that PowerBi can solve.
+Ans- Waiting On Figures.
+Using Data From Old Reports.
+Excessive Time Spent Preparing For Presentations.
+Being Unable To Find Specific Data Sets.
+Not Being Able To Determine Your Level Of Success.
